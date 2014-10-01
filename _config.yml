@@ -1,11 +1,4 @@
 
-name: Volkan Ağbulak
-description: Bir Front-End Developer'in Günlüğü
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-footer-links:
-  email: kozaxs@windowslive.com
-  facebook: volkan.agbulak 
-  github: volkanagbulak1
 markdown: rdiscount
 pygments:         false
 highlighter:      rouge
