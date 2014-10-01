@@ -3,20 +3,9 @@ name: Volkan Ağbulak
 description: Bir Front-End Developer'in Günlüğü
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 footer-links:
-  dribbble: 
   email: kozaxs@windowslive.com
   facebook: volkan.agbulak 
-  flickr: 
   github: volkanagbulak1
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: volkanbu
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-
-disqus: 
-baseurl: ""
 markdown: rdiscount
 pygments:         false
 highlighter:      rouge
